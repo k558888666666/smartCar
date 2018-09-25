@@ -29,6 +29,7 @@ namespace LeapMotionDriverWindow
             AddingSetting("topAnimationSpeed", 0.2);
             AddingSetting("windowDefaultWidth", 640);
             AddingSetting("windowDefaultHeight", 480);
+            AddingSetting("Huge Size", 9.0);
             AddingSetting("bigSize", 2.0);
             AddingSetting("mediumSize", 1.0);
             AddingSetting("smallSize", 0.5);
